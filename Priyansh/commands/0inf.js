@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "info",
 	version: "1.0.1", 
 	hasPermssion: 0,
-	credits: "𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭",
+	credits: "𝐃𝐞𝐯 𝐕𝐚𝐫𝐝𝐡𝐚𝐧",
 	description: "Admin and Bot info.",
 	commandCategory: "...",
 	cooldowns: 1,
@@ -24,23 +24,23 @@ const time = process.uptime(),
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【HH:mm:ss】");
 var link =                                     
-["https://i.postimg.cc/ZKKZQNHv/e825bde531ffa91f6500ec6815741a2e.jpg"];
+["https://i.postimg.cc/fRjPVc2Y/057143467c27f14adfe2c2aa00214c85.jpg"];
 var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ ̿)🇮🇳 𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 𝐁𝐎𝐓 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 🇮🇳 
 (⌐▀͡ ̯ʖ▀)︻̷┻̿═━一-
 
 ☄️Bot Name︎︎︎☄️  ${global.config.BOTNAME}
 
-🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𝐀𝐫𝐬𝐡𝐢𝐭𝐚 🖤🦋
+🔥Bot Admin🔥☞︎︎︎☜︎︎︎✰ 𝐃𝐄𝐕 🖤🦋
 
-🙈My owner facebook id link🙈➪ https://www.facebook.com/arshi.rajput.inc 🦋❤️
+🙈My owner facebook id link🙈➪ https://www.facebook.com/profile.php?id=100095256691456
 
-👋For Any Kind Of Help Contact On email ID 👉 @thewhitedevilxd@gmail.com😇
+👋For Any Kind Of Help Contact On Telegram Username 👉 @RohanThakurYT😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ ${global.config.PREFIX}
 
-♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ 𝐀𝐫𝐬𝐡𝐢𝐭𝐚 𝐑𝐚𝐣𝐩𝐮𝐭
+♥️Bot Owner♥️ ☞︎︎︎☜︎︎︎✰ 𝐃𝐞𝐯 𝐕𝐚𝐫𝐝𝐡𝐚𝐧
 
 🥳UPTIME🥳
 
@@ -53,7 +53,7 @@ var callback = () => api.sendMessage({body:` ╾━╤デ╦︻(▀̿Ĺ̯▀̿ �
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒ARSHITA🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒𝐃 𝐄 𝐕🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛
 
 
